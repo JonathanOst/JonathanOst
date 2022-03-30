@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JonathanO
-- 👀 I’m interested in Java, Python, SQL, PHP, Smashtest
+- 👀 I’m interested in Java, Python, SQL, Smashtest
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me @
